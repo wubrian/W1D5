@@ -1,0 +1,23 @@
+{
+  "name": "npm_project",
+  "version": "1.0.0",
+  "description": "npm installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brian",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wubrian/W1D5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wubrian/W1D5/issues"
+  },
+  "homepage": "https://github.com/wubrian/W1D5#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
